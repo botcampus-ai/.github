@@ -10,33 +10,40 @@ BotCampus AI offers cutting-edge AI and ML courses tailored for software profess
 - **Community Support**: Join a community of learners and industry experts.
 
 ## Courses Offered
-- AI Engineer Roadmap
-- Data Engineer Roadmap
-- Machine Learning Roadmap
-- BIG 3 Cloud Engineer Roadmap
-- Cloud AI Engineer Roadmap
-- Databricks & Power BI Roadmap
-- AI For Tester Roadmap
-- Python
-- Data Science
-- Artificial Intelligence
-- Azure Machine Learning Studio
-- Deep Learning & Neural Network
-- SQL
-- Statistics and Analytics
-- Power BI
-- Azure PySpark
-- Azure Databricks
-- Azure Fundamentals
-- AWS Fundamentals
-- GCP Fundamentals
-- DevOps Fundamentals
-- Multi-Cloud Storage
-- Machine Learning Foundations
-- AWS Sagemaker
-- Azure AI Services
-- AWS AI Services
-- Google AI Services
+### Roadmaps
+- **AI Engineer Roadmap**
+- **Data Engineer Roadmap**
+- **Machine Learning Roadmap**
+- **BIG 3 Cloud Engineer Roadmap**
+- **Cloud AI Engineer Roadmap**
+- **Databricks & Power BI Roadmap**
+- **AI For Tester Roadmap**
+
+### Core Courses
+- **Python**
+- **Data Science**
+- **Artificial Intelligence**
+- **Azure Machine Learning Studio**
+- **Deep Learning & Neural Network**
+- **SQL**
+- **Statistics and Analytics**
+- **Power BI**
+
+### Cloud Fundamentals
+- **Azure PySpark**
+- **Azure Databricks**
+- **Azure Fundamentals**
+- **AWS Fundamentals**
+- **GCP Fundamentals**
+- **DevOps Fundamentals**
+- **Multi-Cloud Storage**
+
+### Specialized Courses
+- **Machine Learning Foundations**
+- **AWS Sagemaker**
+- **Azure AI Services**
+- **AWS AI Services**
+- **Google AI Services**
 
 For more details, visit our [courses page](https://learn.botcampus.ai/all-courses).
 
